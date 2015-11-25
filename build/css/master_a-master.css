@@ -1,3 +1,14 @@
+#u140
+{
+	position: fixed;
+}
+
+#u152-4_img,#u155-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
 #u160
 {
 	background-color: transparent;
@@ -124,7 +135,7 @@
 	border-width: 0px 0px 2px;
 }
 
-#menuu158,#u159,#u183,#u201,#u208,#u215,#u222,#u229
+#u157,#u152-4,#u155-4,#menuu158,#u159,#u183,#u201,#u208,#u215,#u222,#u229
 {
 	position: relative;
 }
@@ -171,15 +182,17 @@
 	cursor: pointer;
 }
 
-#u157,#u140
+#u236-5
 {
-	position: fixed;
-}
-
-#u152-4,#u155-4
-{
-	display: block;
-	vertical-align: top;
+	border-style: solid;
+	border-color: #CCCCCC;
+	background-color: transparent;
+	text-align: center;
+	font-size: 10px;
+	line-height: 12px;
+	font-family: arimo, sans-serif;
+	font-weight: 400;
 	position: relative;
+	border-width: 1px 0px 0px;
 }
 
