@@ -9,9 +9,8 @@
 	vertical-align: top;
 }
 
-#u160
+#u157,#u152-4,#u155-4,#menuu158,#u159,#u160
 {
-	background-color: transparent;
 	position: relative;
 }
 
@@ -26,13 +25,18 @@
 {
 	border-style: solid;
 	border-color: #CCCCCC;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
-#u184
+.navbar-normal
 {
+	border-style: none;
+	border-color: #000000;
 	background-color: transparent;
+}
+
+#u183,#u184
+{
 	position: relative;
 }
 
@@ -47,13 +51,57 @@
 {
 	border-style: solid;
 	border-color: #CCCCCC;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
-#u204
+#u238
 {
-	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	position: relative;
+}
+
+#u238:hover
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 1px;
+}
+
+#u238:active
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 2px;
+}
+
+#u247
+{
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	position: relative;
+}
+
+#u247:hover
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 1px;
+}
+
+#u247:active
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 2px;
+}
+
+#u189,#u237,#u244,#u201,#u204
+{
 	position: relative;
 }
 
@@ -68,13 +116,88 @@
 {
 	border-style: solid;
 	border-color: #CCCCCC;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
-#u211
+#u252
 {
-	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	position: relative;
+}
+
+#u252:hover
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 1px;
+}
+
+#u252:active
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 2px;
+}
+
+#u261
+{
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	position: relative;
+}
+
+#u261:hover
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 1px;
+}
+
+#u261:active
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 2px;
+}
+
+#u266
+{
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	position: relative;
+}
+
+#u266:hover
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 1px;
+}
+
+#u266:active
+{
+	border-style: solid;
+	border-color: #CCCCCC;
+	border-width: 0px 0px 2px;
+}
+
+#u240-4,#u249-4,#u254-4,#u263-4,#u269-4
+{
+	text-align: center;
+	font-size: 11px;
+	line-height: 13px;
+	position: relative;
+}
+
+#u203,#u251,#u258,#u265,#u208,#u211
+{
 	position: relative;
 }
 
@@ -89,13 +212,11 @@
 {
 	border-style: solid;
 	border-color: #CCCCCC;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
-#u216
+#u215,#u216
 {
-	background-color: transparent;
 	position: relative;
 }
 
@@ -110,13 +231,11 @@
 {
 	border-style: solid;
 	border-color: #CCCCCC;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
-#u225
+#u222,#u225
 {
-	background-color: transparent;
 	position: relative;
 }
 
@@ -131,18 +250,11 @@
 {
 	border-style: solid;
 	border-color: #CCCCCC;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
-#u157,#u152-4,#u155-4,#menuu158,#u159,#u183,#u201,#u208,#u215,#u222,#u229
+#u229,#u230
 {
-	position: relative;
-}
-
-#u230
-{
-	background-color: transparent;
 	position: relative;
 }
 
@@ -157,11 +269,10 @@
 {
 	border-style: solid;
 	border-color: #CCCCCC;
-	background-color: transparent;
 	border-width: 0px 0px 2px;
 }
 
-#u160.MuseMenuActive,#u184.MuseMenuActive,#u204.MuseMenuActive,#u211.MuseMenuActive,#u216.MuseMenuActive,#u225.MuseMenuActive,#u230.MuseMenuActive
+#u160.MuseMenuActive,#u184.MuseMenuActive,#u238.MuseMenuActive,#u247.MuseMenuActive,#u204.MuseMenuActive,#u252.MuseMenuActive,#u261.MuseMenuActive,#u266.MuseMenuActive,#u211.MuseMenuActive,#u216.MuseMenuActive,#u225.MuseMenuActive,#u230.MuseMenuActive
 {
 	border-style: solid;
 	border-color: #CACACA;
@@ -171,9 +282,6 @@
 #u163-4,#u185-4,#u205-4,#u213-4,#u217-4,#u226-4,#u231-4
 {
 	text-align: center;
-	color: #000000;
-	font-family: arimo, sans-serif;
-	font-weight: 400;
 	position: relative;
 }
 

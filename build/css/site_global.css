@@ -135,6 +135,13 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.navbar-style
+{
+	color: #000000;
+	font-family: arimo, sans-serif;
+	font-weight: 400;
+}
+
 .TabbedPanelsTab
 {
 	white-space: nowrap;

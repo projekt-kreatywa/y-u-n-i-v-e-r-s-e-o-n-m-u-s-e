@@ -1,19 +1,19 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="406001429"/>
-    <file name="master_a-master.css" crc="429448850" ref="index:objects:paintings:visual-arts:collection-2:blog:about-the-artist:performing-arts:shop:collection-1:drawings:contact"/>
-    <file name="index.css" crc="3957522563" ref="index"/>
-    <file name="objects.css" crc="3957522563" ref="objects"/>
-    <file name="paintings.css" crc="3957522563" ref="paintings"/>
-    <file name="visual-arts.css" crc="3957522563" ref="visual-arts"/>
-    <file name="collection-2.css" crc="3957522563" ref="collection-2"/>
-    <file name="blog.css" crc="3957522563" ref="blog"/>
-    <file name="about-the-artist.css" crc="3957522563" ref="about-the-artist"/>
-    <file name="performing-arts.css" crc="3957522563" ref="performing-arts"/>
-    <file name="shop.css" crc="3957522563" ref="shop"/>
-    <file name="collection-1.css" crc="3957522563" ref="collection-1"/>
-    <file name="drawings.css" crc="3957522563" ref="drawings"/>
-    <file name="contact.css" crc="3957522563" ref="contact"/>
+    <file name="site_global.css" crc="3793993560"/>
+    <file name="master_a-master.css" crc="388147192" ref="index:objects:paintings:visual-arts:collection-2:blog:about-the-artist:performing-arts:shop:collection-1:drawings:contact"/>
+    <file name="index.css" crc="467452155" ref="index"/>
+    <file name="objects.css" crc="467452155" ref="objects"/>
+    <file name="paintings.css" crc="467452155" ref="paintings"/>
+    <file name="visual-arts.css" crc="467452155" ref="visual-arts"/>
+    <file name="collection-2.css" crc="467452155" ref="collection-2"/>
+    <file name="blog.css" crc="467452155" ref="blog"/>
+    <file name="about-the-artist.css" crc="467452155" ref="about-the-artist"/>
+    <file name="performing-arts.css" crc="467452155" ref="performing-arts"/>
+    <file name="shop.css" crc="467452155" ref="shop"/>
+    <file name="collection-1.css" crc="467452155" ref="collection-1"/>
+    <file name="drawings.css" crc="467452155" ref="drawings"/>
+    <file name="contact.css" crc="467452155" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="wings-long-01.svg" crc="477333247" mt="1448487365000"/>
@@ -30,16 +30,16 @@
     <file name="wings-middle-02.png" crc="4170232314" ref="index:visual-arts:paintings:drawings:objects:performing-arts:collection-1:collection-2:about-the-artist:blog:shop:contact"/>
     <file name="u155-4.png" crc="3959769946" ref="index:visual-arts:paintings:drawings:objects:performing-arts:collection-1:collection-2:about-the-artist:blog:shop:contact"/>
   </folder>
-  <file name="index.html" crc="137371494" mt="1448489883586" redirect="true"/>
-  <file name="visual-arts.html" crc="4014013211" mt="1448489883607" redirect="true"/>
-  <file name="paintings.html" crc="4081093853" mt="1448489883609" redirect="true"/>
-  <file name="drawings.html" crc="3984147488" mt="1448489883610" redirect="true"/>
-  <file name="objects.html" crc="112476700" mt="1448489883612" redirect="true"/>
-  <file name="performing-arts.html" crc="3958996583" mt="1448489883614" redirect="true"/>
-  <file name="collection-1.html" crc="154370192" mt="1448489883616" redirect="true"/>
-  <file name="collection-2.html" crc="3786942702" mt="1448489883617" redirect="true"/>
-  <file name="about-the-artist.html" crc="454111337" mt="1448489883618" redirect="true"/>
-  <file name="blog.html" crc="3822521281" mt="1448489883620" redirect="true"/>
-  <file name="shop.html" crc="198674348" mt="1448489883622" redirect="true"/>
-  <file name="contact.html" crc="4047484612" mt="1448489883623" redirect="true"/>
+  <file name="index.html" crc="3943780577" mt="1448490405477" redirect="true"/>
+  <file name="visual-arts.html" crc="471779252" mt="1448490405478" redirect="true"/>
+  <file name="paintings.html" crc="3913217455" mt="1448490405479" redirect="true"/>
+  <file name="drawings.html" crc="4262380891" mt="1448490405482" redirect="true"/>
+  <file name="objects.html" crc="422891416" mt="1448490405484" redirect="true"/>
+  <file name="performing-arts.html" crc="144778682" mt="1448490405485" redirect="true"/>
+  <file name="collection-1.html" crc="241521232" mt="1448490405487" redirect="true"/>
+  <file name="collection-2.html" crc="3896577623" mt="1448490405488" redirect="true"/>
+  <file name="about-the-artist.html" crc="4083253876" mt="1448490405490" redirect="true"/>
+  <file name="blog.html" crc="165265964" mt="1448490405491" redirect="true"/>
+  <file name="shop.html" crc="39368787" mt="1448490405493" redirect="true"/>
+  <file name="contact.html" crc="3918457939" mt="1448490405494" redirect="true"/>
 </manifest>
