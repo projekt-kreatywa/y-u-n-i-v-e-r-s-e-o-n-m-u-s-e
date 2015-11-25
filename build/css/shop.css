@@ -6,65 +6,15 @@
 #page
 {
 	z-index: 1;
-	width: 920px;
-	min-height: 231px;
+	width: 960px;
+	min-height: 481px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
+	padding-bottom: 19px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 250px 20px 19px;
-}
-
-#u726
-{
-	z-index: 79;
-	width: 400px;
-	top: 57px;
-	left: 50%;
-	margin-left: -205px;
-}
-
-#u725
-{
-	z-index: 80;
-	width: 400px;
-	padding-bottom: 60px;
-	margin-right: -10000px;
-}
-
-#u157
-{
-	z-index: 81;
-	width: 346px;
-	top: 63px;
-	left: 50%;
-	margin-left: -173px;
-}
-
-#u152-4
-{
-	z-index: 84;
-	width: 76px;
-	margin-right: -10000px;
-}
-
-#u140
-{
-	z-index: 82;
-	width: 59px;
-	top: 79px;
-	left: 50%;
-	margin-left: -30px;
-}
-
-#u155-4
-{
-	z-index: 88;
-	width: 93px;
-	margin-right: -10000px;
-	left: 253px;
 }
 
 #menuu158
@@ -441,25 +391,64 @@
 	top: 8px;
 }
 
-#u720
+#u726
 {
-	z-index: 98;
-	width: 130px;
-	margin-left: 400px;
-	position: relative;
+	z-index: 79;
+	width: 400px;
+	top: 57px;
+	left: 50%;
+	margin-left: -205px;
 }
 
-#u718
+#u725
+{
+	z-index: 80;
+	width: 400px;
+	padding-bottom: 60px;
+	margin-right: -10000px;
+}
+
+#u157
+{
+	z-index: 81;
+	width: 346px;
+	top: 63px;
+	left: 50%;
+	margin-left: -173px;
+}
+
+#u152-4
+{
+	z-index: 84;
+	width: 76px;
+	margin-right: -10000px;
+}
+
+#u140
+{
+	z-index: 82;
+	width: 59px;
+	top: 79px;
+	left: 50%;
+	margin-left: -30px;
+}
+
+#u155-4
+{
+	z-index: 88;
+	width: 93px;
+	margin-right: -10000px;
+	left: 253px;
+}
+
+#u720
 {
 	z-index: 97;
-	width: 120px;
-	min-height: 47px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 400px;
-	margin-top: 32px;
+	width: 130px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 250px;
+	left: 420px;
 }
 
 #u236-5
@@ -467,7 +456,9 @@
 	z-index: 92;
 	width: 920px;
 	min-height: 23px;
-	margin-top: 41px;
+	margin-right: -10000px;
+	margin-top: 456px;
+	left: 20px;
 }
 
 body
@@ -479,5 +470,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
+	margin-bottom: -456px;
 }
 
