@@ -6,20 +6,79 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 481px;
+	width: 920px;
+	min-height: 459.9px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-bottom: 19px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 21px 20px 19.100000000000023px;
+}
+
+#u726
+{
+	z-index: 7;
+	width: 920px;
+}
+
+#u726_position_content
+{
+	margin-top: -21px;
+	margin-bottom: 122px;
+}
+
+#u157
+{
+	z-index: 85;
+	width: 431px;
+	top: 57px;
+	left: 50%;
+	margin-left: -205px;
+}
+
+#u725
+{
+	z-index: 86;
+	width: 431px;
+	padding-bottom: 12px;
+	margin-right: -10000px;
+}
+
+#u152-4
+{
+	z-index: 87;
+	width: 101px;
+	min-height: 32px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 84px;
+}
+
+#u746-4
+{
+	z-index: 91;
+	width: 39px;
+	min-height: 32px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 185px;
+}
+
+#u155-4
+{
+	z-index: 95;
+	width: 109px;
+	min-height: 32px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 225px;
 }
 
 #menuu158
 {
-	z-index: 2;
+	z-index: 8;
 	width: 920px;
 	top: 124px;
 	left: 50%;
@@ -393,18 +452,17 @@
 
 #pamphletu336
 {
-	z-index: 97;
+	z-index: 99;
 	width: 0.01px;
 	height: 45px;
+	margin-left: 237px;
+	margin-top: 51px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 173px;
-	left: 257px;
 }
 
 #u342
 {
-	z-index: 98;
+	z-index: 100;
 	width: 201px;
 	margin-bottom: -1px;
 	position: relative;
@@ -480,12 +538,12 @@
 
 #u346popup
 {
-	z-index: 102;
+	z-index: 104;
 }
 
 #u347
 {
-	z-index: 103;
+	z-index: 105;
 	width: 621px;
 	height: 466px;
 	border-style: none;
@@ -499,7 +557,7 @@
 
 #u348-4
 {
-	z-index: 104;
+	z-index: 106;
 	width: 611px;
 	min-height: 40px;
 	border-style: none;
@@ -507,8 +565,8 @@
 	background-color: #1A1A1A;
 	padding-left: 10px;
 	padding-top: 10px;
-	color: #DEDEDE;
 	line-height: 20px;
+	color: #DEDEDE;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -517,7 +575,7 @@
 
 #u349
 {
-	z-index: 108;
+	z-index: 110;
 	width: 621px;
 	height: 466px;
 	border-style: none;
@@ -531,7 +589,7 @@
 
 #u350-4
 {
-	z-index: 109;
+	z-index: 111;
 	width: 611px;
 	min-height: 40px;
 	border-style: none;
@@ -539,8 +597,8 @@
 	background-color: #101010;
 	padding-left: 10px;
 	padding-top: 10px;
-	color: #DEDEDE;
 	line-height: 20px;
+	color: #DEDEDE;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -549,7 +607,7 @@
 
 #u351
 {
-	z-index: 113;
+	z-index: 115;
 	width: 621px;
 	height: 466px;
 	border-style: none;
@@ -563,7 +621,7 @@
 
 #u352-4
 {
-	z-index: 114;
+	z-index: 116;
 	width: 610px;
 	min-height: 40px;
 	border-style: none;
@@ -571,8 +629,8 @@
 	background-color: #151515;
 	padding-left: 10px;
 	padding-top: 10px;
-	color: #DEDEDE;
 	line-height: 20px;
+	color: #DEDEDE;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -594,7 +652,7 @@
 
 #u355
 {
-	z-index: 119;
+	z-index: 121;
 	width: 25px;
 	height: 25px;
 	position: relative;
@@ -613,11 +671,11 @@
 
 #u354-4
 {
-	z-index: 120;
+	z-index: 122;
 	width: 19px;
 	text-align: center;
-	color: #999999;
 	line-height: 14px;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -640,15 +698,15 @@
 
 #u357-4
 {
-	z-index: 125;
+	z-index: 127;
 	width: 19px;
 	min-height: 9px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #999999;
 	line-height: 14px;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -694,12 +752,12 @@
 
 #u359-4
 {
-	z-index: 130;
+	z-index: 132;
 	width: 20px;
 	min-height: 20px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -712,64 +770,12 @@
 	cursor: pointer;
 }
 
-#u726
-{
-	z-index: 79;
-	width: 400px;
-	top: 57px;
-	left: 50%;
-	margin-left: -205px;
-}
-
-#u725
-{
-	z-index: 80;
-	width: 400px;
-	padding-bottom: 60px;
-	margin-right: -10000px;
-}
-
-#u157
-{
-	z-index: 81;
-	width: 346px;
-	top: 63px;
-	left: 50%;
-	margin-left: -173px;
-}
-
-#u152-4
-{
-	z-index: 84;
-	width: 76px;
-	margin-right: -10000px;
-}
-
-#u140
-{
-	z-index: 82;
-	width: 59px;
-	top: 79px;
-	left: 50%;
-	margin-left: -30px;
-}
-
-#u155-4
-{
-	z-index: 88;
-	width: 93px;
-	margin-right: -10000px;
-	left: 253px;
-}
-
 #u236-5
 {
-	z-index: 92;
+	z-index: 2;
 	width: 920px;
 	min-height: 23px;
-	margin-right: -10000px;
-	margin-top: 456px;
-	left: 20px;
+	margin-top: 238px;
 }
 
 body
@@ -781,6 +787,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -456px;
 }
 

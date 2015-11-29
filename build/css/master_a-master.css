@@ -1,3 +1,8 @@
+#u157
+{
+	position: fixed;
+}
+
 #u725
 {
 	border-color: #000000;
@@ -7,18 +12,27 @@
 	-pie-background: rgba(255, 255, 255, 0.5);
 }
 
-#u152-4_img,#u155-4_img
+#u152-4,#u746-4,#u155-4
 {
-	display: block;
-	vertical-align: top;
+	text-align: center;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: arimo, sans-serif;
+	font-weight: 400;
+	position: relative;
 }
 
-#u726,#u157,#u140,#menuu158
+#menuu158
 {
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.5);
 	position: fixed;
+	-pie-background: rgba(255, 255, 255, 0.5);
 }
 
-#u152-4,#u155-4,#u159,#u160
+#u726,#u159,#u160
 {
 	position: relative;
 }
