@@ -75,7 +75,26 @@
 	background-color: rgba(255, 255, 255, 0.5);
 }
 
-#u183,#u184
+#u754
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u754:hover
+{
+	background-color: #AAAAAA;
+}
+
+#u754.MuseMenuActive
+{
+	background-color: #666666;
+}
+
+#u165,#u753,#u183,#u184
 {
 	position: relative;
 }
@@ -340,7 +359,7 @@
 	-pie-background: rgba(255, 255, 255, 0.5);
 }
 
-#u240-4,#u249-4,#u254-4,#u263-4,#u269-4
+#u756-4,#u240-4,#u249-4,#u254-4,#u263-4,#u269-4
 {
 	text-align: center;
 	font-size: 11px;
@@ -499,7 +518,7 @@
 	cursor: pointer;
 }
 
-#u236-5
+#u236-6
 {
 	border-style: solid;
 	border-color: #CCCCCC;

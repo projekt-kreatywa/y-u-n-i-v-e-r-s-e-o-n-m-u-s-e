@@ -81,6 +81,12 @@ body
 	body { text-rendering:auto; }
 }
 
+a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 a:link
 {
 	color: #000000;
@@ -129,7 +135,17 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.navbar-style
+.Paragraph-Style
+{
+	color: #000000;
+	font-family: arimo, sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	text-align: center;
+	padding: 0px;
+}
+
+.navbar-style,.para-style
 {
 	color: #000000;
 	font-family: arimo, sans-serif;
